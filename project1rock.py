@@ -1,3 +1,4 @@
+#here we had imported random module of python
 import random
 
 rock='✊'
